@@ -5,6 +5,7 @@ An intelligent AI assistant that provides information about my professional back
 ## Live Chat
 **[Chat with my AI assistant](https://n8n.ryanle.ca/webhook/81e77bb3-b5d7-44cc-b3f8-632d3469b44d/chat)**
 
+![N8N Diagram](n8n_diagram.png)
 ## Features
 
 - **Knowledge-Based Responses**: Vector search across curated knowledge base
