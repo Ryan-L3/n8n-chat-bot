@@ -85,7 +85,7 @@ https://n8n.ryanle.ca/webhook/81e77bb3-b5d7-44cc-b3f8-632d3469b44d/chat
 - **Performance Optimized**: Fast response times
 - **Knowledge Updates**: Easy addition of new information
 
-## 🚀 Self-Hosted Infrastructure
+## Self-Hosted Infrastructure
 
 Running on personal homelab with:
 - Docker containerization
