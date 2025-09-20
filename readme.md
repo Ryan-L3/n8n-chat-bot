@@ -3,7 +3,7 @@
 An intelligent AI assistant that provides information about my professional background through advanced vector search and knowledge retrieval.
 
 ## Live Chat
-**[Chat with my AI assistant](https://n8n.ryanle.ca/webhook/81e77bb3-b5d7-44cc-b3f8-632d3469b44d/chat)**
+**[Chat with my AI assistant](https://chatbot.ryanle.ca/)**
 
 ![N8N Diagram](n8n_diagram.png)
 ## Features
